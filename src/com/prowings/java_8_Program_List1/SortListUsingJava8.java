@@ -1,4 +1,4 @@
-package com.prowings.java_8_Program;
+package com.prowings.java_8_Program_List1;
 
 import java.util.ArrayList;
 import java.util.Collections;
